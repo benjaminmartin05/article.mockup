@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+---
+
+Your response goes here!
+
+  * What new skills have you learned?
+  I've learned how to use markup editors along with different html tags.
+  * What has been easy?
+  Placing the html tags needed for this exercise.
+  * What has been difficult?
+  Attempting to have the exact font as the pdf example. Chrome makes the font appear a little off compared to the example.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  Yes, if I don't specifically remember a particular html tag, I will google how to implement it.
